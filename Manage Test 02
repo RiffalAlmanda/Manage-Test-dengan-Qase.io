@@ -1,0 +1,11 @@
+Qase.io
+ Qase.io adalah sebuah platform atau alat untuk manajemen uji coba perangkat lunak (software testing) yang memungkinkan tim pengembang atau penguji untuk merencanakan, melacak, dan mengelola tes perangkat lunak dengan cara yang terstruktur dan efisien. Platform ini dirancang untuk mempermudah proses pengujian, termasuk integrasi dengan berbagai alat pengujian lain dan penyimpanan hasil tes secara terpusat.
+
+Beberapa fitur utama dari Qase.io meliputi:
+
+Manajemen Kasus Uji: Pengguna dapat membuat, mengatur, dan mengelola kasus uji (test cases) untuk berbagai jenis aplikasi dan proyek.
+Pelacakan Bug dan Masalah: Qase.io membantu dalam pelacakan bug atau masalah yang ditemukan selama proses pengujian, serta memungkinkan integrasi dengan alat pelacakan bug seperti Jira.
+Pengujian Manual dan Otomatis: Platform ini mendukung pengujian manual serta otomatisasi pengujian untuk berbagai jenis aplikasi perangkat lunak.
+Integrasi: Dapat diintegrasikan dengan berbagai alat pengujian lain seperti GitHub, GitLab, Jenkins, dan lainnya untuk memastikan alur kerja yang mulus dalam proses pengembangan perangkat lunak.
+Analitik dan Laporan: Qase.io menyediakan laporan dan analitik yang membantu tim penguji untuk memahami kinerja pengujian dan menemukan potensi masalah dalam perangkat lunak.
+Dengan fitur-fitur tersebut, Qase.io berfokus pada peningkatan kolaborasi tim dan efisiensi dalam proses pengujian perangkat lunak, yang pada gilirannya dapat meningkatkan kualitas produk akhir.
